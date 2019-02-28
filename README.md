@@ -10,10 +10,10 @@ cloner le projet
 installer les prérequis
 
 lancement du projet:
-python manage.py migrate
-python manage.py makemigrations
-python manage.py migrate
-python manage.py createsuperuser
+python3 manage.py migrate /
+python3 manage.py makemigrations /
+python3 manage.py migrate /
+python3 manage.py createsuperuser/
 
 dans créer user il vous demmand d'entrer un admin,
 
